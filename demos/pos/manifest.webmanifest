@@ -1,0 +1,11 @@
+{
+  "name": "POS & Inventory",
+  "short_name": "POS",
+  "description": "Offline-first point of sale and inventory",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#0d9488",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
